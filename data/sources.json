@@ -1,0 +1,291 @@
+{
+  "_meta": {
+    "description": "Hand-maintained directory of free genealogy sources. No paywalls, no affiliate links. Every entry carries a verify date.",
+    "verify_date_note": "verify_date is the last date a human checked the link worked and was still free.",
+    "last_reviewed": "2026-11-01"
+  },
+  "categories": [
+    {
+      "id": "familysearch",
+      "name": "FamilySearch",
+      "blurb": "FamilySearch is run by a nonprofit and is genuinely free. A free account unlocks record search, the full-text search, and image access; the wiki and catalog do not even need an account."
+    },
+    {
+      "id": "archives",
+      "name": "State & County Archives",
+      "blurb": "National, state, and county-level archives and their volunteer-driven cousins. These hold the records the big sites have not digitized yet."
+    },
+    {
+      "id": "census",
+      "name": "Census Lookups",
+      "blurb": "Free routes into U.S. census and census-substitute records. The census releases are public domain, so fully free copies always exist somewhere."
+    },
+    {
+      "id": "newspapers",
+      "name": "Free Newspaper Routes",
+      "blurb": "Historic newspapers, free outright or free through your public library card. Newspapers are where obituaries, wedding notices, and small-town news live."
+    },
+    {
+      "id": "cemeteries",
+      "name": "Cemeteries & Gravestones",
+      "blurb": "Gravestone photos and burial indexes, plus the etiquette of using volunteer photo sites well."
+    },
+    {
+      "id": "more-help",
+      "name": "More Free Help",
+      "blurb": "Volunteer lookups, mega-indexes, and free transcription tools to stretch your research further."
+    }
+  ],
+  "entries": [
+    {
+      "id": "familysearch-record-search",
+      "title": "FamilySearch Record Search",
+      "url": "https://www.familysearch.org/search/",
+      "category": "familysearch",
+      "what": "billions of indexed historical records (births, marriages, deaths, census, military) from a nonprofit that never charges for records.",
+      "how": "Create a free account, then search a name, place, and year range. Click 'View Record Images' when the index summary looks right. Sign in first or image links often dead-end.",
+      "requirements": "free-account",
+      "verify_date": "2026-10-28"
+    },
+    {
+      "id": "familysearch-full-text-search",
+      "title": "FamilySearch Full-Text Search",
+      "url": "https://www.familysearch.org/search/full-text/",
+      "category": "familysearch",
+      "what": "AI-assisted keyword search across digitized deeds, probate packets, and county court papers that were never name-indexed.",
+      "how": "Type a surname plus a place, filter by state. It reads handwriting, so try name spellings loosely. When it hits, read the whole page for the family context.",
+      "requirements": "free-account",
+      "verify_date": "2026-10-28"
+    },
+    {
+      "id": "familysearch-wiki",
+      "title": "FamilySearch Research Wiki",
+      "url": "https://www.familysearch.org/en/wiki/Main_Page",
+      "category": "familysearch",
+      "what": "A free, county-by-county encyclopedia of what records exist, where they are kept, and what years survive for every U.S. county and country.",
+      "how": "Search your ancestor's county. The wiki tells you which courthouse burned, which years survive, and often links the archive's own site. No account needed.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-28"
+    },
+    {
+      "id": "familysearch-catalog",
+      "title": "FamilySearch Catalog",
+      "url": "https://www.familysearch.org/search/catalog/search",
+      "category": "familysearch",
+      "what": "The library catalog of FamilySearch's microfilm and digitized county records, much of which never made it into regular record search.",
+      "how": "Search a county name, choose 'United States, [State], [County] - Vital records' style listings, and look for camera icons meaning images are viewable at home.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-28"
+    },
+    {
+      "id": "nara-genealogy",
+      "title": "U.S. National Archives Genealogy Pages",
+      "url": "https://www.archives.gov/research/genealogy",
+      "category": "archives",
+      "what": "The federal archive's own starting points for military pensions, immigration, land, and census records, many free online and the rest free by request.",
+      "how": "Start with 'Resources for Genealogists,' then use the 'Order copies' route only for records you cannot reach free; NARA's held records are scanned into the Catalog at catalog.archives.gov.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-27"
+    },
+    {
+      "id": "nara-catalog",
+      "title": "National Archives Catalog",
+      "url": "https://catalog.archives.gov/",
+      "category": "archives",
+      "what": "NARA's full digitized holdings: every released federal census, WWII draft cards, naturalizations, and scanned pension files.",
+      "how": "Search a soldier's name plus 'pension' or a place plus 'naturalization'. Records marked 'Archival' are yours to view and download free.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-27"
+    },
+    {
+      "id": "cosa-state-archives",
+      "title": "Directory of State Archives (CoSA)",
+      "url": "https://www.statearchivists.org/state-archives/",
+      "category": "archives",
+      "what": "One linked list of every U.S. state's official archive, so you can jump straight to your state's vital-record and land-record holdings.",
+      "how": "Open your state archive's genealogy or 'genealogists' page. Most states have free digital collections like will index scans and Confederate pension files.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-27"
+    },
+    {
+      "id": "usgenweb",
+      "title": "USGenWeb Project",
+      "url": "https://usgenweb.org/",
+      "category": "archives",
+      "what": "Volunteer-run, free-text transcriptions and scanned records organized county by county for all 50 states.",
+      "how": "Pick your state, then your county. Look for tombstone photos, old plat maps, and courthouse transcriptions from before paywall sites existed.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-27"
+    },
+    {
+      "id": "uk-national-archives",
+      "title": "The National Archives (UK) Research Guides",
+      "url": "https://www.nationalarchives.gov.uk/help-with-your-research/",
+      "category": "archives",
+      "what": "Hundreds of step-by-step guides and free record downloads for English, Welsh, and Scottish family history.",
+      "how": "Choose a topic such as 'Tracing a will' or 'Royal Navy records.' Many records in the catalogue are digitized and free to view without reading-room visits.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "nara-1950-census",
+      "title": "1950 U.S. Census (NARA Portal)",
+      "url": "https://www.archives.gov/research/census/1950",
+      "category": "census",
+      "what": "The newest fully open U.S. census, released in 2022 with no 72-year wait and no paywall anywhere.",
+      "how": "Search names directly from NARA's page, or browse an enumeration district map if a misspelling blocked a name match.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-27"
+    },
+    {
+      "id": "stevemorse-tools",
+      "title": "Steve Morse One-Step Tools",
+      "url": "https://stevemorse.org/",
+      "category": "census",
+      "what": "Free search forms that slice census years and immigration indexes in ways the originals cannot, including 'city directory' and 'spellings-that-sound-like' options.",
+      "how": "Pick 'US Census' and choose a year such as 1900. Limit to a county and a first letter of a name when the surname was mangled by an enumerator.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-27"
+    },
+    {
+      "id": "census-transcription-forms",
+      "title": "Free Census Extraction & Transcription Forms",
+      "url": "https://www.archives.gov/research/genealogy/charts-forms",
+      "category": "census",
+      "what": "Printable blanks from NARA for transcribing each census year column by column, so nothing gets lost between screen and notebook.",
+      "how": "Download the PDF for your census year, print, and hand-write findings as you read the images. Pair it with the binder-checklist page on this site.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "chronicling-america",
+      "title": "Chronicling America (Library of Congress)",
+      "url": "https://chroniclingamerica.loc.gov/",
+      "category": "newspapers",
+      "what": "Millions of fully searchable digitized U.S. newspaper pages from 1756-1963, all free straight from the Library of Congress.",
+      "how": "Use 'Search Pages,' restrict to a state and date span, then try surname-only searching. OCR is imperfect, so also try nicknames and maiden names.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-28"
+    },
+    {
+      "id": "loc-newspapers-directory",
+      "title": "U.S. Newspapers Directory (LoC)",
+      "url": "https://chroniclingamerica.loc.gov/newspapers/",
+      "category": "newspapers",
+      "what": "A directory listing which titles were published in which county and what years survive on film, wherever they are held.",
+      "how": "Search your county to learn whether the 1910 hometown paper even existed, and which library or archive holds surviving reels.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "newspapers-com-library-route",
+      "title": "Newspapers.com - Free Through Your Library Card",
+      "url": "https://www.newspapers.com/",
+      "category": "newspapers",
+      "what": "The huge commercial newspaper archive, free at home with a participating public library card (look for 'Library edition' in your library's databases list).",
+      "how": "Log into your library's 'Research & Databases' page, find Newspapers.com Library Edition, and it should open with your card number. You pay nothing; always route through the library link.",
+      "requirements": "free-via-library",
+      "verify_date": "2026-10-28"
+    },
+    {
+      "id": "fulton-history",
+      "title": "FultonSearch (Fulton History Mirror)",
+      "url": "https://fultonsearch.org/",
+      "category": "newspapers",
+      "what": "A free mirror of the famed Tom Fulton collection: millions of pages of New York State and other eastern newspapers.",
+      "how": "Use the 'Search' box and keep terms short, one or two words. Try a town plus year range instead of a full family name.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "google-news-archive",
+      "title": "Google News Archive",
+      "url": "https://news.google.com/newspapers",
+      "category": "newspapers",
+      "what": "Google's older digitized newspaper collection, still free, with full runs of many mid-sized city papers.",
+      "how": "Browse by title or language; after opening a paper, use the search field inside that title rather than plain web search.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "trove",
+      "title": "Trove (National Library of Australia)",
+      "url": "https://trove.nla.gov.au/",
+      "category": "newspapers",
+      "what": "The world's most generous free newspaper archive, and a model route for Australian and British migrant families.",
+      "how": "Search the Newspapers zone. Trove lets you correct OCR lines, so you can fix a mangled surname right in the record.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "findagrave",
+      "title": "Find A Grave",
+      "url": "https://www.findagrave.com/",
+      "category": "cemeteries",
+      "what": "Free community-built database of millions of memorials with photos, linked family members, and cemetery maps.",
+      "how": "Search name plus state. Read the etiquette page on this site first: request photos politely, never rewrite other people's memorials, and thank the contributor.",
+      "requirements": "free-account",
+      "verify_date": "2026-10-28"
+    },
+    {
+      "id": "anc-explorer",
+      "title": "ANC Explorer (Arlington National Cemetery)",
+      "url": "https://www.arlingtoncemetery.mil/WAA/ANC-Explorer",
+      "category": "cemeteries",
+      "what": "The cemetery's own free web map and app, with front-and-back headstone photos and plot locations for every Arlington burial.",
+      "how": "Launch ANC Explorer in your browser from that page, then search last name plus first initial. No account, no fee.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "nys-historic-newspapers",
+      "title": "NYS Historic Newspapers",
+      "url": "https://nyshistoricnewspapers.org/",
+      "category": "newspapers",
+      "what": "New York's free state-wide archive of digitized small-town and big-city newspapers, fully searchable.",
+      "how": "Search a surname, or browse titles by county. Great complement to FultonSearch when OCR results differ between the two.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-26"
+    },
+    {
+      "id": "cyndis-list",
+      "title": "Cyndi's List",
+      "url": "https://www.cyndislist.com/",
+      "category": "more-help",
+      "what": "A hand-catalogued index of over 300,000 free genealogy links by place and topic, kept up by one volunteer for three decades.",
+      "how": "Browse your county or ethnic-group category. It's the fastest way to find small county-level projects when a search engine only shows commercial sites.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-25"
+    },
+    {
+      "id": "raogk",
+      "title": "Random Acts of Genealogical Kindness",
+      "url": "https://www.raogk.org/",
+      "category": "more-help",
+      "what": "Volunteers who will take a gravestone photo or copy one document page in their hometown, free (you reimburse copying or travel costs only).",
+      "how": "Search volunteers by state and county. Post one clear request with names, dates, and cemetery; be patient and say thank you.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-25"
+    },
+    {
+      "id": "dpla-family-research",
+      "title": "Digital Public Library of America",
+      "url": "https://dp.la/",
+      "category": "more-help",
+      "what": "One search across photos, maps, and manuscripts from thousands of libraries, all publicly readable, plus family-research primary source sets.",
+      "how": "Search an old family business name or street address; local-history scrapbooks and postcard collections often surface here that no other search reaches.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-25"
+    },
+    {
+      "id": "ancestor-hunt",
+      "title": "Ancestor Hunt Free Obituary Links",
+      "url": "https://www.ancestorhunt.com/",
+      "category": "more-help",
+      "what": "A family-run free index pointing to county obituary boards, church records, and prison rosters around the U.S.",
+      "how": "Open your state's listing and look for 'Obituary Insertion Indexes'; these often skip paywalls because the host sites are themselves free.",
+      "requirements": "fully-free",
+      "verify_date": "2026-10-25"
+    }
+  ]
+}
